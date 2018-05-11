@@ -1,0 +1,1 @@
+nome_do_filme,avaliacao_do_usuario,avaliacao_media
